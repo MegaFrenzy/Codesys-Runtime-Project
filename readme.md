@@ -1,5 +1,7 @@
 ### 某重型物料运输系统项目介绍
 
+本项目开发使用CODESYS 集成开发环境 V3.5 SP10版本，结构化文本ST语言进行开发。图片不可见时可查看仓库skyWell.pdf文件
+
 #### 1.设备结构
 
 ![devStruct](readme.assets/devStruct.png)
